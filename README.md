@@ -1,10 +1,10 @@
 
 
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Emediong &ldquo;Bendito&rdquo; Francis. 😁</h1>
+<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Emediong &ldquo;Nahom&rdquo; Zelalem. 😁</h1>
 <h2 align="center">A dauntless Software Engineer. 💻</h2>
-<center><img src="https://github.com/EmediongFrancis/EmediongFrancis/blob/main/giphy.gif"/></center>
+<center><img src="https://github.com/nahomz/blob/main/giphy.gif"/></center>
 
-- 🔭 I’m currently working on [an e-commerce web application.](https://github.com/emediongfrancis/bendito-mall)
+- 🔭 I’m currently working on [an e-commerce web application.](https://github.com/nahomz/dire-mall)
 
 - 🌱 I’m currently learning **Cloud Engineering.**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Linux, Docker, and the Cloud.**
 
-- 📫 How to reach me: **emediongfrancis@gmail.com**
+- 📫 How to reach me: **nahomzelalem11@gmail.com**
 
 - ⚡ Fun fact: **I am a southpaw.**
 <br>
